@@ -128,5 +128,5 @@ These insights can help businesses improve customer targeting and marketing effi
 - PCA
 - K-Means Clustering
 
-- Author
+## Author
 - Syed Abdullah Shamsi 
